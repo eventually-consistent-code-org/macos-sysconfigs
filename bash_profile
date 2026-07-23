@@ -51,8 +51,8 @@ export AWS_CREDENTIAL_FILE=~/aws/credential-file-path.template
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # Jira Env
-export JIRA_EMAIL='john@eventually-consistent.io'
-export JIRA_API_TOKEN='ATATT3xFfGF0SmTsEj-agCne-VghBRioNr0S_zMDc4fNfWnIpo0Sqril-GFHnOHDB2r-mKj0VgXxbConN-KLmZGCSqe50ivS6ZYNFg6kmcmVlaIWAS-wyc9363U3Yax6za85mCFHbebRTKnCW_QHpeafqmi4tvMEz896WXuRQoxxgOAXSF5XbWc=89BF5EBC'
+export JIRA_EMAIL='*'
+export JIRA_API_TOKEN='*'
 
 # Homebrew libffi linker hint (helps Python/C extension builds find libffi).
 export LDFLAGS="-L/usr/local/opt/libffi/lib"
